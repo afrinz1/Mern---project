@@ -1,4 +1,4 @@
-import { MessageSquare } from "lucide-react";
+import { Diameter } from "lucide-react";
 
 const NoChatSelected = () => {
   return (
@@ -8,16 +8,15 @@ const NoChatSelected = () => {
         <div className="flex justify-center gap-4 mb-4">
           <div className="relative">
             <div
-              className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center
-             justify-center animate-bounce"
+              className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center justify-center"
             >
-              <MessageSquare className="w-8 h-8 text-primary " />
+              <Diameter className="w-8 h-8 text-primary" />
             </div>
           </div>
         </div>
 
         {/* Welcome Text */}
-        <h2 className="text-2xl font-bold">Welcome to Chatty!</h2>
+        <h2 className="text-2xl font-bold">Welcome to Kudumbashri!</h2>
         <p className="text-base-content/60">
           Select a conversation from the sidebar to start chatting
         </p>
