@@ -9,7 +9,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-black)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Everyone can see everyone's messages in here! Just login and say hi to me or someone you don't even know. But don't mess things up though... we can ALL see ya! 👀**
+**A real-time chat application where you can connect with friends and have conversations instantly! Login, find someone to chat with, and start messaging. Your conversations are just between you and them! 💬✨**
 
 [Live Demo](https://mern-project-unzm.onrender.com/)
 
