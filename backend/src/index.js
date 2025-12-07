@@ -13,8 +13,6 @@ import {app, server } from "./lib/socket.js";
 
 import { connectDB } from "./lib/db.js";
 
-
-
 const PORT = process.env.PORT || 5001;
 const __dirname = path.resolve();
 
