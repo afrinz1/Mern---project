@@ -261,7 +261,7 @@ NODE_ENV	Environment (development/production)	❌
 | `getOnlineUsers` | Server → Client | List of online users |
 | `newMessage` | Server → Client | New message received |
 
-```
+
 ## 🎨 Available Themes
 
 This app uses DaisyUI themes. Available options:
@@ -312,7 +312,7 @@ npm run build    # Build both frontend and backend
 npm run start    # Start production server
 ```
 
----
+
 
 ## 🚀 Deployment
 
