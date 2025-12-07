@@ -372,10 +372,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 👨‍💻 Author
@@ -383,20 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Afrin**
 
 [![GitHub](https://img.shields.io/badge/GitHub-afrinz1-181717?style=for-the-badge&logo=github)](https://github.com/afrinz1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-
----
-
-## 🙏 Acknowledgments
-
-### Resources
-
-- [React Documentation](https://react.dev/)
-- [Socket.io Documentation](https://socket.io/docs/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [DaisyUI](https://daisyui.com/)
-- [Cloudinary](https://cloudinary.com/)
-- [MongoDB Atlas](https://www.mongodb.com/atlas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afrinzero1/)
 
 ---
 
@@ -409,4 +392,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=afrinz1.Mern---project)
 
 </div>
-```
